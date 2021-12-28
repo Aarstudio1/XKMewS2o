@@ -1,3 +1,19 @@
 {
-name:"PUBG VPNG",
+  "appid": "123_HoT_VPN",
+  "app_purchase": false,
+  "appkey": "",
+  "monthly": "",
+  "six_month": "",
+  "yearly": "",
+  "ggl_ads": false,
+  "fb_ads": false,
+  "fb_banner": "",
+  "fb_interstitial": "",
+  "ggl_banner": "",
+  "ggl_interstitial": "",
+  "remote_urls": [
+    "https://d2isj403unfbyl.cloudfront.net/",
+    "https://awebhtpo3u8g5t.ecoweb-network.com/",
+    "https://d1pijg9qb98hxx.cloudfront.net/"
+  ]
 }
