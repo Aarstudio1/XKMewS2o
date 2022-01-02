@@ -1,6 +1,6 @@
 {
   "appid": "123_HoT_VPN",
-  "app_purchase": true,
+  "app_purchase": false,
   "appkey": "",
   "monthly": "",
   "six_month": "",
@@ -17,5 +17,5 @@
     "https://d2isj403unfbyl.cloudfront.net/"
   ],
   "notice_status":true,
-  "notice":"Happy new year 2022"
+  "notice":"Airplane mode on & Off if face any problem"
 }
