@@ -1,6 +1,6 @@
 {
   "appid": "123_HoT_VPN",
-  "app_purchase": false,
+  "app_purchase": true,
   "appkey": "",
   "monthly": "",
   "six_month": "",
