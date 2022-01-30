@@ -6,7 +6,7 @@
   "six_month": "",
   "yearly": "",
   "ggl_ads": false,
-  "fb_ads": false,
+  "fb_ads": true,
   "fb_banner": "1025332494861079_1030560397671622",
   "fb_interstitial": "1025332494861079_1025392598188402",
   "ggl_banner": "ca-app-pub-3940256099942544/1033173712",
