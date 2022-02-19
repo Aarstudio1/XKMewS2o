@@ -1,5 +1,5 @@
 {
-  "appid": "123_HoT_VPN",
+  "appid": "vpn_business",
   "app_purchase": false,
   "appkey": "",
   "monthly": "",
@@ -17,5 +17,5 @@
     "https://d1pijg9qb98hxx.cloudfront.net/"
   ],
   "notice_status":true,
-  "notice":"Please Update the App. This App version will be closed soon."
+  "notice":"Please Update the App V-1.7, Bug Fixed."
 }
