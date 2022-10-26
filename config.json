@@ -19,5 +19,5 @@
   "notice_status": true,
   "notice":"--- 11 Click here",
   "notice_url":"https://www.google.com",
-  "redirect": false
+  "redirect": true
 }
