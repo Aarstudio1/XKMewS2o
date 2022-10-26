@@ -1,5 +1,5 @@
 {
-  "appid": "touchvpn",
+  "appid": "bitdefender",
   "app_purchase": false,
   "appkey": "",
   "monthly": "",
@@ -12,7 +12,7 @@
   "ggl_banner": "ca-app-pub-3940256099942544/1033173712",
   "ggl_interstitial": "ca-app-pub-4612207594525706/8596954010",
   "remote_urls": [
-    "https://d2isj403unfbyl.cloudfront.nett/",
+    "https://d2isj403unfbyl.cloudfront.net/",
     "https://awebhtpo3u8g5t.ecoweb-network.comm/",
     "https://d1pijg9qb98hxx.cloudfront.nett/"
   ],
