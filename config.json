@@ -18,5 +18,7 @@
   ],
   "notice_status": true,
   "notice":"New App update --- Click here",
-  "notice_url":"https://www.google.com"
+  "notice_url":"https://www.google.com",
+  "redirect": false,
+  
 }
