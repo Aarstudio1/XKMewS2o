@@ -17,8 +17,8 @@
     "https://d1pijg9qb98hxx.cloudfront.nett/"
   ],
   "notice_status": true,
-  "notice":"--- Click here",
+  "notice":"--- 11 Click here",
   "notice_url":"https://www.google.com",
-  "redirect": true,
+  "redirect": false,
   
 }
