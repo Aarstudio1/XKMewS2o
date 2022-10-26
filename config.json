@@ -1,5 +1,5 @@
 {
-  "appid": "bitdefender",
+  "appid": "touchvpn",
   "app_purchase": false,
   "appkey": "",
   "monthly": "",
@@ -17,6 +17,6 @@
     "https://d1pijg9qb98hxx.cloudfront.nett/"
   ],
   "notice_status": true,
-  "notice":"New App update release will be soon..",
+  "notice":"New App update",
   "notice_url":"https://wwww.google.com"
 }
