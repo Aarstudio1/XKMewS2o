@@ -1,5 +1,5 @@
 {
-  "appid": "touchvpn",
+  "appid": "bitdefender",
   "app_purchase": false,
   "appkey": "",
   "monthly": "",
@@ -18,7 +18,7 @@
    
   ],
   "notice_status": true,
-  "notice":"Restart the app if face any problem..",
+  "notice":"Tap Vpn ..",
   "notice_url":"",
   "redirect": false
 }
